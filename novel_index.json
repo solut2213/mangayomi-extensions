@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Fenrir Realm",
+    "id": 8888001,
+    "baseUrl": "https://fenrirealm.com",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://fenrirealm.com/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/solut2213/mangayomi-extensions/main/javascript/novel/src/en/fenrirrealm.js",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": false,
+    "itemType": 2,
+    "isFullData": true,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "Converted from LNReader plugin for Fenrir Realm"
+  }
+]
